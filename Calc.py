@@ -64,7 +64,7 @@ def main_program():
         print(num,"!=",factorial(num))
 
 
-
+#while loop user input
 while running:
     main_program()
     restart =input("Do you want to continue? (yes/no): ")
@@ -73,3 +73,4 @@ while running:
     elif restart.lower() == 'no' or restart.lower() == 'n':
         running = False
         
+#fuck lo asinu branch hakol bamain
