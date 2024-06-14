@@ -73,3 +73,4 @@ while running:
     elif restart.lower() == 'no' or restart.lower() == 'n':
         running = False
         
+#fuck lo asinu branch hakol bamain
